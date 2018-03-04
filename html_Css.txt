@@ -1,0 +1,34 @@
+<html>
+<style type="text/css"> 
+h1{color : #cc0000;} 
+table{  
+		height :15px;
+		color: Green;
+		font-weight: bold;
+	}
+</style>
+
+<head><title> Lecture Desk </title></head>
+
+
+<body background=desk.png>
+
+<table>
+<td width="250"></td>
+<td width="500">
+<h1 align="middle"> <i>LecTure DEsK </i></h1>
+<hr />
+<br>
+</body>
+<body>
+<table width="1000" cellspacing="1" cellpadding="10" border="0" bgcolor=#ffffff>
+<tr>
+<td align="center"> Home </td>
+<td align="center"> Menu </td>
+<td align="center"> Department </td>
+<td align="center"> Contact </td>
+</tr>
+</table>
+</body>
+
+</html>
